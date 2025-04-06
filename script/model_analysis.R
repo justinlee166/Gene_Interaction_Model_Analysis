@@ -2,7 +2,7 @@ library(leaps)
 library(MASS)
 library(knitr)
 
-data <- read.csv("gene_data.csv")  # replace with your actual file name
+data <- read.csv("data/gene_data.csv")  # replace with your actual file name
 
 # Exploratory Data Analysis
 summary(data)
