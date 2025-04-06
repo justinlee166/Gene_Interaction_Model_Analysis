@@ -10,7 +10,7 @@ This repository contains my solutions and analysis for AMS 315 Project 2, focuse
 
 ---
 
-## 📄 Project Description  
+## Project Description  
 **Objective:** Estimate the underlying model used to generate synthetic data with 1 dependent variable (Y), 4 environmental variables (E1--E4), and 20 gene variables (G1--G20).
 
 ### Part A: Exploratory and Correlation Analysis  
@@ -32,14 +32,14 @@ Y^{0.35} = 24.8394 + 14.5468\,E_4 + 16.6106\,(G_5:G_{13}) + \epsilon
 
 ---
 
-## ⚙️ Tools & Libraries  
+## Tools & Libraries  
 - **Programming Language:** R  
 - **Libraries:** `leaps`, `knitr`, `MASS`  
 - **Documentation:** LaTeX for formal reporting  
 
 ---
 
-## 📊 Key Results  
+## Key Results  
 - Significant predictors: E4 and G5:G13 (gene-gene interaction).  
 - No significant standalone genetic or gene-environment interactions.  
 - Adjusted R²: 0.453  
@@ -47,7 +47,7 @@ Y^{0.35} = 24.8394 + 14.5468\,E_4 + 16.6106\,(G_5:G_{13}) + \epsilon
 
 ---
 
-## 📧 Contact  
+## Contact  
 **Justin Lee**  
 Double Major in Computer Science and Applied Mathematics  
 [JustinYuilLee@gmail.com](mailto:JustinYuilLee@gmail.com)  
