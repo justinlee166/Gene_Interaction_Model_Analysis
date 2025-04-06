@@ -1,12 +1,10 @@
-# AMS 315 Project 2: Gene Interaction Modeling  
-**Author:** Justin Lee  
-**Course:** AMS 315 - Data Analysis, Spring 2024  
-**Instructor:** Professor Yan Yu  
+# Gene Interaction Modeling Analysis
+**Author:** Justin Lee 
 
 ---
 
 ## 📌 Overview  
-This repository contains my solutions and analysis for AMS 315 Project 2, focused on identifying gene-gene interactions and environmental effects in a synthetic dataset. The analysis was conducted using multiple regression techniques, transformations, and variable selection methods in R.
+This repository contains my solutions and analysis focused on identifying gene-gene interactions and environmental effects in a synthetic dataset. The analysis was conducted using multiple regression techniques, transformations, and variable selection methods in R.
 
 ---
 
